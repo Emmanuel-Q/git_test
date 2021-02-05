@@ -1,1 +1,1 @@
-Read Me
+This is Emmanuel-Q's first git project!
